@@ -8,13 +8,13 @@ date = "2016-12-07T08:26:00-07:00"
   <div class="col-md-8">
     <p class="pitch">
       <b>Redox</b> è un Sistema Operativo Unix-like scritto in <a style="color: inherit;" href="https://www.rust-lang.org/"><b>Rust</b></a>,
-      con l'obbiettivo di portare le innovazioni di Rust in un microkernel moderno ed in un pacchetto di applicazioni.
+      con l'obiettivo di portare le innovazioni di Rust in un microkernel moderno ed in un pacchetto di applicazioni.
     </p>
   </div>
   <div class="col-md-4 install-box">
     <br/>
-    <a class="btn btn-primary" href="https://github.com/redox-os/redox/releases">Vedi i Rilasci</a>
-    <a class="btn btn-default" href="https://github.com/redox-os/redox/">Pull da GitHub</a>
+    <a class="btn btn-primary" href="https://github.com/redox-os/redox/releases">Versioni Rilasciate</a>
+    <a class="btn btn-default" href="https://github.com/redox-os/redox/">Vedi su GitHub</a>
   </div>
 </div>
 <div class="row features">
